@@ -21,3 +21,30 @@ Tecnologias usadas nesse projeto foram:
 </p>
 
 
+
+
+<br>
+
+<h2>Hotel reservation.</h2>
+
+
+<p>
+In this complete and fully functional website project using <b>bootstrap</b> as technology.
+The idea was to develop only the <b>front-end</b> part, so you can download it and
+integrate with the back-end and you will have an even more complete project.
+
+You can see the list of available and unavailable hotels, enter the check-in and check-out date
+filter (if you have it integrated into the backend) and much more.
+
+Technologies used in this project were:
+<li>Bootstrap</li>
+<li>Javascript</li>
+<li>HTML</li>
+<li>CSS</li>
+
+<h4>Follow the preview: https://x.gd/w7JgY </h4>
+<h4>Here's the video preview: </h4> <img src="/Reserva de hotel.gif">
+
+</p>
+
+
