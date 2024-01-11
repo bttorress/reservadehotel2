@@ -11,4 +11,4 @@ Segue a prévia em video:
 
 
 
-![Uploading Reserva de hotel.gif…]()
+<img src="/reservadehotel.gif">
